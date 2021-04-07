@@ -1,7 +1,3 @@
 STEP 1: created by Claire LeBlanc on 04/07/2021 at 14:38
-<<<<<<< HEAD
 STEP 4: line added by Claire LeBlanc on 04/07/2021 at 14:19
-=======
-
 STEP 4:  line added by TesfaAsmara on 11/06/19 at 14:16
->>>>>>> ff7a107f28f1e62413c617e2c5fb01c7408b313f
